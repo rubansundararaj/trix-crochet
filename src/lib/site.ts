@@ -1,4 +1,4 @@
-export const siteName = "Open Loop";
+export const siteName = "Trix Crochet";
 
 export const siteDescription =
   "A small catalog of crochet designs. Watch the makes on YouTube and follow the day-to-day on Instagram.";
